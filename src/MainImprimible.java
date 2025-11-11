@@ -1,4 +1,4 @@
-// Clase Main con el metodo main para ejecutar el codigo
+// Clase MainImprimible con el metodo main para ejecutar el codigo
 public class MainImprimible {
     public static void main(String[] args) {
         // Se crean dos objetos que implementan la interfaz Imprimible:
